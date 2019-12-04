@@ -1,0 +1,11 @@
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\bin\Debug\netcoreapp3.0\LiveCoding3.exe
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\bin\Debug\netcoreapp3.0\LiveCoding3.deps.json
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\bin\Debug\netcoreapp3.0\LiveCoding3.runtimeconfig.json
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\bin\Debug\netcoreapp3.0\LiveCoding3.runtimeconfig.dev.json
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\bin\Debug\netcoreapp3.0\LiveCoding3.dll
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\bin\Debug\netcoreapp3.0\LiveCoding3.pdb
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\obj\Debug\netcoreapp3.0\LiveCoding3.csprojAssemblyReference.cache
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\obj\Debug\netcoreapp3.0\LiveCoding3.AssemblyInfoInputs.cache
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\obj\Debug\netcoreapp3.0\LiveCoding3.AssemblyInfo.cs
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\obj\Debug\netcoreapp3.0\LiveCoding3.dll
+C:\Programming\CSharp\LiveCoding3\LiveCoding3\LiveCoding3\obj\Debug\netcoreapp3.0\LiveCoding3.pdb
